@@ -3,7 +3,7 @@
 title: 金睿
 
 # Name pronunciation (optional)
-name_pronunciation: Rui (Raymond) Jin
+name_pronunciation: Jin, Rui
 
 # Full name (for SEO)
 first_name: Rui
@@ -31,7 +31,7 @@ bio: My research interests include labor economics and education economics.
 interests:
   - Educational Mismatch
   - Human Capital
-  - Labor Market
+  - Labor Market Outcomes
 
 # Education to show in About widget
 education:
@@ -53,42 +53,28 @@ skills:
     items:
       - name: Stata
         description: ''
-        percent: 80
-        icon: square-poll-vertical
-        icon_pack: fas
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: python
-#        icon_pack: fab
-      - name: Data Science
-        description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-#      - name: SQL
-#        description: ''
-#        percent: 40
-#        icon: database
-#        icon_pack: fas
+        icon: stata-original-wordmark colored
+        icon_pack: devicon
+      - name: R
+        description: ''
+        percent: 30
+        icon: rstudio-plain colored
+        icon_pack: devicon
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 50
+        icon: book-open-reader
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-#        icon: cat
-#        icon_pack: fas
-      - name: Photography
+      - name: Table Tennis
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: table-tennis-paddle-ball
         icon_pack: fas
 
 # Social/Academic Networking
@@ -99,21 +85,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jinrui_ray@hust.edu.cn
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#    label: Follow me on Twitter
-#    display:
-#      header: true
-#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-#    icon_pack: fas
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    label: Contact me
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/raymondkj
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-5101-0925
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -125,5 +105,5 @@ social:
 highlight_name: true
 ---
 
-Rui Jin is a Ph.D. candidate in western economics at School of Economics, Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies: (1) educational mismatches, and (2) labor market outcomes.
+Rui Jin is a Ph.D. candidate in western economics at School of Economics, Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies: (1) educational mismatches, and (2) labor market outcomes. And he would like to be called "Raymond" or "Ray" for ease of pronunciation.
 {style="text-align: justify;"}
