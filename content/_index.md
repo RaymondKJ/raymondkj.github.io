@@ -200,20 +200,20 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
@@ -224,11 +224,36 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  - block: tag_cloud
+
+  - block: research
+    id: research
     content:
-      title: Popular Topics
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
     design:
       columns: '2'
+      view: citation
+  - block: research
+    content:
+      title: Projects
+      text: |-
+       1. **Collaborator** (2019.1-2019.3): "2018 Evaluation and Inspection Project for the Delisting of Impoverished Counties"  (300520181116203), commissioned by the Hunan Provincial Office of Poverty Alleviation and Development, with Daiyan Peng (PI) et al., CNY 1,340,000;
+      |-
+       2. **Investigator** (2018.6-2018.8): "2017 Evaluation and Inspection Project for the Delisting of Impoverished Counties" (TC180F2KN), commissioned by the State Council’s Leading Group on Poverty Alleviation and Development. Leading unit: Institute of Rural Development, Chinese Academy of Social Sciences;
+      |-
+       3. **Collaborator** (2016.10-2018.12): "Study on the Influence and Countermeasures of Population Aging in Hubei Province" (HBZD-2016-06), Hubei Provincial Government Project for the Procurement of Intellectual Contributions, with Daiyan Peng (PI) et al., CNY 60,000
+    design:
+      columns: '2'
+      view: citation
+
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   # - block: contact
   #   id: contact
   #   content:

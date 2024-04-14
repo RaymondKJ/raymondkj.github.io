@@ -54,13 +54,18 @@ skills:
       - name: Stata
         description: ''
         percent: 100
-        icon: stata-original-wordmark colored
-        icon_pack: devicon
+        icon: square-poll-vertical
+        icon_pack: fas
       - name: R
         description: ''
         percent: 30
-        icon: rstudio-plain colored
-        icon_pack: devicon
+        icon: r
+        icon_pack: fas
+      - name: Zotero
+        description: ''
+        percent: 85
+        icon: zotero
+        icon_pack: ai
 
   - name: Hobbies
     color: '#eeac02'
@@ -71,10 +76,15 @@ skills:
         percent: 50
         icon: book-open-reader
         icon_pack: fas
-      - name: Table Tennis
+      - name: Table tennis
+        description: ''
+        percent: 40
+        icon: table-tennis-paddle-ball
+        icon_pack: fas
+      - name: Movie
         description: ''
         percent: 80
-        icon: table-tennis-paddle-ball
+        icon: film
         icon_pack: fas
 
 # Social/Academic Networking
