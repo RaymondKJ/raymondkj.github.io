@@ -225,7 +225,7 @@ sections:
   #     columns: '2'
   #     view: compact
 
-  - block: research
+  - block: collection
     id: research
     content:
       title: Publications
@@ -236,7 +236,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: research
+  - block: collection
     content:
       title: Projects
       text: |-
