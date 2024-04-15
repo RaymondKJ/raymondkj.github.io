@@ -54,13 +54,13 @@ skills:
       - name: Stata
         description: ''
         percent: 100
-        icon: square-poll-vertical
+        icon: chart-line
         icon_pack: fas
       - name: R
         description: ''
         percent: 30
-        icon: r
-        icon_pack: fas
+        icon: r-project
+        icon_pack: fab
       - name: Zotero
         description: ''
         percent: 85
@@ -109,7 +109,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Rui Jin.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
