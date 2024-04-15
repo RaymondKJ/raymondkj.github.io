@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. candidate in Western Economics
+    - course: Ph.D. candidate in Economics
       institution: Huazhong University of Science and Technology
       year: 2019-present
-    - course: M.A. student in Western Economics (transitioned to PhD program)
+    - course: M.A. student in Economics (transitioned to PhD program)
       institution: Huazhong University of Science and Technology
       year: 2017-2019
     - course: B.A. in Economics
