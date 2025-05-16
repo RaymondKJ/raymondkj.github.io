@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 金睿
+title: Rui Jin
 
 # Name pronunciation (optional)
-name_pronunciation: Jin, Rui
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Rui
@@ -11,7 +11,7 @@ last_name: Jin
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📝
 
 # Is this the primary user of the site?
 superuser: true
@@ -183,4 +183,4 @@ languages:
 
 ## About Me
 
-Rui Jin is a Ph.D. candidate in western economics at School of Economics, Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies: (1) educational mismatches, and (2) labor market outcomes. And he would like to be called "Raymond" or "Ray" for ease of pronunciation.
+Rui Jin is a Ph.D. candidate in western economics at School of Economics, Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies: (1) educational mismatches, and (2) labor market outcomes. His Chinese name is 金睿 (meaning "wisedom"), and he would like to be called "Raymond" or "Ray" for ease of pronunciation.
