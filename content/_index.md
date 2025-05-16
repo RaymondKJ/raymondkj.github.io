@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV_Rui Jin.pdf
     design:
       css_class: dark
       background:
@@ -35,10 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a PhD candidate in Economics at School of Economics, Huazhong University of Science and Technology. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
+        My research interests are labor, education and development economics. My recent work studies: (1) educational mismatches, and (2) social capital in labor market outcomes.
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
@@ -63,45 +63,56 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
+  - block: markdown
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+      title: Projects
+      text: |-
+       1. "2018 Evaluation and Inspection Project for the Delisting of Impoverished Counties"  (300520181116203), commissioned by the Hunan Provincial Office of Poverty Alleviation and Development, with Daiyan Peng (PI) et al., CNY 1,340,000. **Collaborator**, 2019.1-2019.3.
+
+       2. "2017 Evaluation and Inspection Project for the Delisting of Impoverished Counties" (TC180F2KN), commissioned by the State Council’s Leading Group on Poverty Alleviation and Development. Leading unit: Institute of Rural Development, Chinese Academy of Social Sciences. **Investigator**, 2018.6-2018.8. 
+
+       3. "Study on the Influence and Countermeasures of Population Aging in Hubei Province" (HBZD-2016-06), Hubei Provincial Government Project for the Procurement of Intellectual Contributions, with Daiyan Peng (PI) et al., CNY 60,000. **Collaborator**, 2016.10-2018.12.
     design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: '2'
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
