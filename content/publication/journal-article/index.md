@@ -1,7 +1,7 @@
 ---
 title: "Does educational mismatch affect human capital investment in children? Evidence from China"
 authors:
-- Rui Jin
+- admin
 - Daiyan Peng
 # author_notes:
 # - "Equal contribution"

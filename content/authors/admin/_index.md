@@ -135,8 +135,7 @@ skills:
       - name: Table tennis
         description: ''
         percent: 40
-        icon: table-tennis-paddle-ball
-        icon_pack: fas
+        icon: hero/face-smile
       - name: Movie
         description: ''
         percent: 80
