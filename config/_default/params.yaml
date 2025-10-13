@@ -32,15 +32,15 @@ header:
     enable: true
     block: 'navbar'
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Rui Jin'
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Rui Jin. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

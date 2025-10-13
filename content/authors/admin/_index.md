@@ -55,29 +55,30 @@ interests:
 education:
   - area: Ph.D. candidate in Economics
     institution: Huazhong University of Science and Technology
-    date_start: 2019-09-01
+    date_start: 2017-09-01
     date_end: 
-#    summary: |
+    summary: |
 #      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com/thesis.pdf'
-  - area: M.A. student in Economics (transitioned to PhD program)
-    institution: Huazhong University of Science and Technology
-    date_start: 2017-09-01
-    date_end: 2019-06-30
-    summary: |
-      GPA: 4.0/4.0
+      Initially enrolled in the M.A. program and was admitted to the Ph.D. track in 2019 through a competitive selection process based on academic performance, which included written exams and interviews.
 
-      Specialized in Development Economics.
+      M.A. Track
+        Weighted Average Score: 86.69/100
+        Specialized in Development Economics, with a research focus on the intersection of population aging, labor market dynamics, and economic inequality.
+
+      Ph.D. Track
+        Weighted Average Score: 87.27/100
+        Specialized in Labor, Education and Development Economics, with a research focus on the intersection of human capical and labor market dynamics. 
   - area: B.A. in Economics
     institution: Huazhong University of Science and Technology
     date_start: 2013-09-01
     date_end: 2017-06-30
     summary: |
-      GPA: 3.9/4.0
+      Weighted Average Score: 84.20/100 (Ranked 8th in a class of 38)
 
-      Minored in Economics.
+      Majored in Economics. 
 
 #work:
 #  - position: Senior AI Research Scientist
