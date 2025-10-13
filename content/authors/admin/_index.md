@@ -166,15 +166,15 @@ awards:
 #    summary: |
 #      Recognized for contributions to scaling laws in deep learning.
   - title: Hubei Province Development Research Award, Third Prize
-    date: '2018'
+    date: '2018-12-28'
     awarder: Hubei Provincial Government
     icon: hero/trophy
   - title: Outstanding Undergraduate Thesis Award
-    date: '2017'
+    date: '2017-06-30'
     awarder: Huazhong University of Science and Technology
     icon: hero/academic-cap
   - title: Outstanding Graduating Student
-    date: '2017'
+    date: '2017-06-30'
     awarder: Huazhong University of Science and Technology
     icon: hero/academic-cap
 ---
