@@ -143,7 +143,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
+awards:
 #  - title: Best Paper Award
 #    url: https://neurips.cc/
 #    date: '2022-12-01'
@@ -158,13 +158,25 @@ languages:
 #    icon: hero/currency-dollar
 #    summary: |
 #      $500,000 grant for research in ethical AI development.
-#  - title: Outstanding PhD Thesis
+#  - title: Outstanding B.A. Thesis
 #    url: https://www.stanford.edu/
 #    date: '2019-06-30'
 #    awarder: Stanford University
 #    icon: hero/academic-cap
 #    summary: |
 #      Recognized for contributions to scaling laws in deep learning.
+  - title: Hubei Province Development Research Award, Third Prize
+    date: '2018'
+    awarder: Hubei Provincial Government
+    icon: hero/trophy
+  - title: Outstanding Undergraduate Thesis Award
+    date: '2017'
+    awarder: Huazhong University of Science and Technology
+    icon: hero/academic-cap
+  - title: Outstanding Graduating Student
+    date: '2017'
+    awarder: Huazhong University of Science and Technology
+    icon: hero/academic-cap
 ---
 
 Rui Jin is a Ph.D. candidate in western economics at School of Economics, Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies: (1) educational mismatches, and (2) labor market outcomes. His Chinese name is 金睿 (meaning "wisedom"), and he would like to be called "Raymond" or "Ray" for ease of pronunciation.
