@@ -57,11 +57,12 @@ education:
     institution: Huazhong University of Science and Technology
     date_start: 2017-09-01
     date_end: 
-    summary: |
+#    summary: |
 #      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com/thesis.pdf'
+    summary: |
       Initially enrolled in the M.A. program and was admitted to the Ph.D. track in 2019 through a competitive selection process based on academic performance, which included written exams and interviews.
 
       M.A. Track
