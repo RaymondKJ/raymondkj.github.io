@@ -2,9 +2,9 @@
 title: Facilitation or Inhibition? Exploring the Influence of Social Capital on (Genuine)
   Overeducation in China
 authors:
-- Rui Jin
+- admin
 - Daiyan Peng
-date: '2025-10-01'
+date: '2025-10-13'
 publishDate: '2025-10-13T14:08:53.861598Z'
 publication_types:
 - article-journal
@@ -24,8 +24,11 @@ abstract: This study examines the effect of social capital on the incidence of g
   barriers. Our findings underscore the importance of social capital in improving
   labour market outcomes in developing countries.
 tags:
-- /unread
-- 🔃有待更新
+- Developing country
+- Educational mismatch
+- Genuine overeducation
+- Instrumental variable (IV)
+- Social capital
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/apel.70013
