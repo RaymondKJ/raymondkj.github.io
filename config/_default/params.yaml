@@ -35,8 +35,7 @@ header:
     show_search: false
     show_theme_chooser: true
     logo:
-      filename: "icon.png"
-      text: 'Rui Jin'
+      text: '🎓Rui Jin'
 
 # Site footer
 footer:
