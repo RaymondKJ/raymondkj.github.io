@@ -65,13 +65,13 @@ education:
     summary: |
       Initially enrolled in the M.A. program and was admitted to the Ph.D. track in 2019 through a competitive selection process based on academic performance, which included written exams and interviews.
 
-      M.A. Track
-        Weighted Average Score: 86.69/100
-        Specialized in Development Economics, with a research focus on the intersection of population aging, labor market dynamics, and economic inequality.
+      - M.A. Track
+        - Weighted Average Score: 86.69/100
+        - Specialized in Development Economics, with a research focus on the intersection of population aging, labor market dynamics, and economic inequality.
 
-      Ph.D. Track
-        Weighted Average Score: 87.27/100
-        Specialized in Labor, Education and Development Economics, with a research focus on the intersection of human capical and labor market dynamics. 
+      - Ph.D. Track
+        - Weighted Average Score: 87.27/100
+        - Specialized in Labor, Education and Development Economics, with a research focus on the intersection of human capical and labor market dynamics. 
   - area: B.A. in Economics
     institution: Huazhong University of Science and Technology
     date_start: 2013-09-01
@@ -79,7 +79,9 @@ education:
     summary: |
       Weighted Average Score: 84.20/100 (Ranked 8th in a class of 38)
 
-      Majored in Economics. 
+      Majored in Economics. Class Monitor (2014-2015).
+      - Acted as the key communication bridge for a cohort of ~40 students with faculty and department administration, effectively managing course feedback channels and coordinating academic activities.
+      - Mentored the class to achieve top-tier academic standing, culminating in the university-wide "Exemplary Class in Academic Pursuits" award; also assisted in organizing well-attended departmental seminars.
 
 #work:
 #  - position: Senior AI Research Scientist
@@ -134,10 +136,10 @@ skills:
         icon: hero/film
 
 languages:
-  - name: English
-    percent: 60
   - name: Chinese
     percent: 100
+  - name: English
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.

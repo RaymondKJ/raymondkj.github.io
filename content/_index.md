@@ -29,18 +29,18 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I am a PhD candidate in Economics at School of Economics, Huazhong University of Science and Technology. 
-
-        My research interests are labor, education and development economics. My recent work studies: (1) educational mismatches, and (2) social capital in labor market outcomes.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title: '📚 My Research'
+#      subtitle: ''
+#      text: |-
+#        I am a PhD candidate in Economics at School of Economics, Huazhong University of Science and Technology. 
+#
+#        My research interests are labor, education and development economics. My recent work studies: (1) educational mismatches, and (2) social capital in labor market outcomes.
+#
+#        Please reach out to collaborate 😃
+#    design:
+#      columns: '1'
 #  - block: collection
 #    id: papers
 #    content:

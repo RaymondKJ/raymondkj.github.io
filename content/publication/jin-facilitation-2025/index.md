@@ -32,4 +32,6 @@ tags:
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/apel.70013
+- name: ePDF
+  url: https://onlinelibrary.wiley.com/share/author/ARETBUMX2AEPZWWWIDMX?target=10.1111/apel.70013
 ---
