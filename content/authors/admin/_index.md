@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Doctoral Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -129,7 +129,7 @@ skills:
       - name: Table tennis
         description: ''
         percent: 50
-        icon: custom/table-tennis-light
+        icon: "custom/table-tennis-light"
       - name: Movie
         description: ''
         percent: 70
