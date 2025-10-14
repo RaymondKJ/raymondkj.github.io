@@ -4,8 +4,6 @@ title: Facilitation or Inhibition? Exploring the Influence of Social Capital on 
 authors:
 - admin
 - Daiyan Peng
-author_notes:
-- 'Corresponding author'
 date: '2025-10-13'
 publishDate: '2025-10-13T14:08:53.861598Z'
 publication_types:

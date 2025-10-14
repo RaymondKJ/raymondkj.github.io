@@ -129,7 +129,7 @@ skills:
       - name: Table tennis
         description: ''
         percent: 50
-        icon: hero/face-smile
+        icon: custom/table-tennis-light
       - name: Movie
         description: ''
         percent: 70
