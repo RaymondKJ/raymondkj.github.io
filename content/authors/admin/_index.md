@@ -129,7 +129,7 @@ skills:
       - name: Table tennis
         description: ''
         percent: 50
-        icon: "icons/table-tennis-light"
+        icon: hero/magnifying-glass
       - name: Movie
         description: ''
         percent: 70
