@@ -53,7 +53,7 @@ interests:
   - Labor Market Outcomes
 
 education:
-  - area: Doctoral candidate in Economics
+  - area: Doctoral Candidate in Economics
     institution: Huazhong University of Science and Technology
     date_start: 2017-09-01
     date_end: 
@@ -182,8 +182,8 @@ awards:
     icon: hero/academic-cap
 ---
 
-Rui Jin is a Ph.D. candidate in western economics at School of Economics, Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies:
-1. educational mismatches
-2. labor market outcomes.
+Rui Jin is a doctoral candidate in economics (PhD track) at Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies:
+1. Educational mismatches
+2. Labor market outcomes.
 
 His Chinese name is 金睿 (meaning "wisedom"), and he would like to be called "Raymond" or "Ray" for ease of pronunciation.
