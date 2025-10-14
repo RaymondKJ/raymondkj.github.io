@@ -53,7 +53,7 @@ interests:
   - Labor Market Outcomes
 
 education:
-  - area: Ph.D. candidate in Economics
+  - area: Doctoral candidate in Economics
     institution: Huazhong University of Science and Technology
     date_start: 2017-09-01
     date_end: 
@@ -63,16 +63,16 @@ education:
 #      text: 'Read Thesis'
 #      url: 'https://example.com/thesis.pdf'
     summary: |
-      Initially enrolled in the M.A. program and was admitted to the Ph.D. track in 2019 through a competitive selection process based on academic performance, which included written exams and interviews.
+      Initially admitted to the master’s program in Economics and was selected to transition to the doctoral program in 2019 after competitive written exams and interviews.
 
-      - M.A. Track
+      - Master’s program
         - Weighted Average Score: 86.69/100
         - Specialized in Development Economics, with a research focus on the intersection of population aging, labor market dynamics, and economic inequality.
 
-      - Ph.D. Track
+      - Doctoral program
         - Weighted Average Score: 87.27/100
         - Specialized in Labor, Education and Development Economics, with a research focus on the intersection of human capical and labor market dynamics. 
-  - area: B.A. in Economics
+  - area: Bachelor of Economics
     institution: Huazhong University of Science and Technology
     date_start: 2013-09-01
     date_end: 2017-06-30
@@ -168,17 +168,22 @@ awards:
 #    summary: |
 #      Recognized for contributions to scaling laws in deep learning.
   - title: Hubei Province Development Research Award, Third Prize
-    date: '2018-12-28'
+    url: https://zys.hubei.gov.cn/fbjd/xxgkml/xkfw/fzyjj/201812/t20181219_14538.shtml
+    date: '2018-12-19'
     awarder: Hubei Provincial Government
     icon: hero/trophy
   - title: Outstanding Undergraduate Thesis Award
-    date: '2017-06-30'
+    date: '2018-01-29'
     awarder: Huazhong University of Science and Technology
     icon: hero/academic-cap
   - title: Outstanding Graduating Student
-    date: '2017-06-30'
+    date: '2017-05-25'
     awarder: Huazhong University of Science and Technology
     icon: hero/academic-cap
 ---
 
-Rui Jin is a Ph.D. candidate in western economics at School of Economics, Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies: (1) educational mismatches, and (2) labor market outcomes. His Chinese name is 金睿 (meaning "wisedom"), and he would like to be called "Raymond" or "Ray" for ease of pronunciation.
+Rui Jin is a Ph.D. candidate in western economics at School of Economics, Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies:
+1. educational mismatches
+2. labor market outcomes.
+
+His Chinese name is 金睿 (meaning "wisedom"), and he would like to be called "Raymond" or "Ray" for ease of pronunciation.
