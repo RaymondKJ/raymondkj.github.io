@@ -4,6 +4,8 @@ title: Does educational mismatch affect human capital investment in children? Ev
 authors:
 - admin
 - Daiyan Peng
+author_notes:
+- "Corresponding author"
 date: '2025-05-09'
 publishDate: '2025-10-13T13:49:34.106407Z'
 publication_types:
