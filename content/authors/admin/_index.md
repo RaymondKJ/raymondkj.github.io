@@ -104,9 +104,7 @@ skills:
       - name: R
         description: ''
         percent: 30
-        icon: r-project
-        icon_pack: fab
-#        icon: devicon/rstudio
+        icon: devicon/rstudio
       - name: Zotero
         description: ''
         percent: 85
@@ -122,9 +120,7 @@ skills:
       - name: Table tennis
         description: ''
         percent: 50
-        icon: table-tennis-paddle-ball
-        icon_pack: fas
-#        icon: hero/magnifying-glass
+        icon: hero/magnifying-glass
       - name: Movie
         description: ''
         percent: 70
