@@ -65,23 +65,14 @@ education:
     summary: |
       Initially admitted to the master’s program in Economics and was selected to transition to the doctoral program in 2019 after competitive written exams and interviews.
 
-      - Master’s program
-        - Weighted Average Score: 86.69/100
-        - Specialized in Development Economics, with a research focus on the intersection of population aging, labor market dynamics, and economic inequality.
-
-      - Doctoral program
-        - Weighted Average Score: 87.27/100
-        - Specialized in Labor, Education and Development Economics, with a research focus on the intersection of human capical and labor market dynamics. 
+      - Master’s program: Specialized in Development Economics, with a research focus on population aging, economic inequality, happiness and labor market dynamics.
+      - Doctoral program: Specialized in Labor, Education and Development Economics, with a research focus on the intersection of human capical and labor market dynamics. 
   - area: Bachelor of Economics
     institution: Huazhong University of Science and Technology
     date_start: 2013-09-01
     date_end: 2017-06-30
     summary: |
-      Weighted Average Score: 84.20/100 (Ranked 8th in a class of 38)
-
-      Majored in Economics. Class Monitor (2014-2015).
-      - Acted as the key communication bridge for a cohort of ~40 students with faculty and department administration, effectively managing course feedback channels and coordinating academic activities.
-      - Mentored the class to achieve top-tier academic standing, culminating in the university-wide "Exemplary Class in Academic Pursuits" award; also assisted in organizing well-attended departmental seminars.
+      Majored in Economics. Class Monitor (2014-2015): Acted as the key communication bridge for a cohort of ~40 students with faculty and department administration, effectively managing course feedback channels and coordinating academic activities. Mentored the class to achieve top-tier academic standing, culminating in the university-wide "Exemplary Class in Academic Pursuits" award.
 
 #work:
 #  - position: Senior AI Research Scientist
@@ -183,7 +174,7 @@ awards:
 ---
 
 Rui Jin is a doctoral candidate in economics (PhD track) at Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies:
-1. Educational mismatches
-2. Labor market outcomes.
+1. Educational mismatch.
+1. Labor market outcomes.
 
 His Chinese name is 金睿 (meaning "wisedom"), and he would like to be called "Raymond" or "Ray" for ease of pronunciation.
