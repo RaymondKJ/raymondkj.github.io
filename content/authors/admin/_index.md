@@ -100,15 +100,18 @@ skills:
       - name: Stata
         description: ''
         percent: 100
-        icon: devicon/stata-wordmark
+        icon: 'custom/stata'
+#        icon: devicon/stata-wordmark
       - name: R
         description: ''
         percent: 30
-        icon: devicon/rstudio
+        icon: 'custom/rlanguage'
+#        icon: devicon/rstudio
       - name: Zotero
         description: ''
         percent: 85
-        icon: academicons/zotero
+        icon: 'custom/zotero'
+#        icon: academicons/zotero
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -120,7 +123,8 @@ skills:
       - name: Table tennis
         description: ''
         percent: 50
-        icon: hero/magnifying-glass
+        icon: 'custom/table-tennis'
+#        icon: hero/magnifying-glass
       - name: Movie
         description: ''
         percent: 70
