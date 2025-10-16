@@ -174,7 +174,7 @@ awards:
 ---
 
 Rui Jin is a doctoral candidate in economics (PhD track) at Huazhong University of Science and Technology. His research interests include labor, education and development economics. His recent work studies:
-1. Educational mismatch.
-1. Labor market outcomes.
+1. Causes and effects of educational mismatch.
+1. The role of social capital in the labor market.
 
 His Chinese name is 金睿 (meaning "wisedom"), and he would like to be called "Raymond" or "Ray" for ease of pronunciation.
