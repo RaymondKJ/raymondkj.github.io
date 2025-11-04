@@ -13,9 +13,9 @@ sections:
     content:
       title: Participated Projects
       text: |
-       1. **"2018 Evaluation and Inspection Project for the Delisting of Impoverished Counties"**  (300520181116203), commissioned by the Hunan Provincial Office of Poverty Alleviation and Development, with Daiyan Peng (PI) et al., CNY 1,340,000. **Collaborator**, 2019.1-2019.3.
+       1. **"2018 Evaluation and Inspection Project for the Delisting of Impoverished Counties"**  (300520181116203), commissioned by the Hunan Provincial Office of Poverty Alleviation and Development, with Daiyan Peng (PI) et al., CNY 1,340,000. **Research Coordinator**, 2019.1-2019.3.
 
-       1. **"2017 Evaluation and Inspection Project for the Delisting of Impoverished Counties"** (TC180F2KN), commissioned by the State Council’s Leading Group on Poverty Alleviation and Development. Leading unit: Institute of Rural Development, Chinese Academy of Social Sciences. **Investigator**, 2018.6-2018.8. 
+       1. **"2017 Evaluation and Inspection Project for the Delisting of Impoverished Counties"** (TC180F2KN), commissioned by the State Council’s Leading Group on Poverty Alleviation and Development. Leading unit: Institute of Rural Development, Chinese Academy of Social Sciences. **Field Researcher**, 2018.6-2018.8. 
 
        1. **"Study on the Influence and Countermeasures of Population Aging in Hubei Province"** (HBZD-2016-06), Hubei Provincial Government Project for the Procurement of Intellectual Contributions, with Daiyan Peng (PI) et al., CNY 60,000. **Collaborator**, 2016.10-2018.12.
     design:
